@@ -1,0 +1,37 @@
+{
+    "layout": {
+        "title": "Generated website by create next vercel supabase",
+        "description": "A modern SaaS starter,generated website by create next vercel supabase",
+        "footer": "Stack Forge Studio"
+    },
+    "nav": {
+        "home": "Home",
+        "pricing": "Pricing",
+        "blog": "Blog",
+        "signIn": "Sign In"
+    },
+    "auth": {
+        "welcomeBack": "Welcome Back",
+        "welcomeDesc": "Start your journey today",
+        "or": "or",
+        "email": "Email",
+        "emailPlaceholder": "name@example.com",
+        "sendCode": "Send Verification Code",
+        "sending": "Sending...",
+        "code": "Verification Code",
+        "codePlaceholder": "Enter 6-digit code",
+        "codeSentTo": "We sent a code to {email}",
+        "completeLogin": "Complete Sign In",
+        "loginWithGoogle": "Sign in with Google",
+        "loginWithFacebook": "Sign in with Facebook",
+        "loginWithApple": "Sign in with Apple",
+        "verifying": "Verifying...",
+        "backToEmail": "Back to change email"
+    },
+    "common": {
+        "loading": "Loading...",
+        "save": "Save",
+        "cancel": "Cancel",
+        "confirm": "Confirm"
+    }
+}

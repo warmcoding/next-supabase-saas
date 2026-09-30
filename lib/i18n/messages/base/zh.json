@@ -1,0 +1,37 @@
+{
+    "layout": {
+        "title": "由 create next vercel supabase 生成的网站",
+        "description": "一个现代的 SaaS 起始模板，由 create next vercel supabase 生成",
+        "footer": "Stack Forge Studio"
+    },
+    "nav": {
+        "home": "首页",
+        "pricing": "价格",
+        "blog": "博客",
+        "signIn": "登录"
+    },
+    "auth": {
+        "welcomeBack": "欢迎回来",
+        "welcomeDesc": "开启今天的旅程",
+        "or": "或",
+        "email": "电子邮箱",
+        "emailPlaceholder": "name@example.com",
+        "sendCode": "发送验证码",
+        "sending": "发送中...",
+        "code": "验证码",
+        "codePlaceholder": "输入 6 位验证码",
+        "codeSentTo": "我们已向 {email} 发送了验证码",
+        "completeLogin": "完成登录",
+        "loginWithGoogle": "使用 Google 登录",
+        "loginWithFacebook": "使用 Facebook 登录",
+        "loginWithApple": "使用 Apple 登录",
+        "verifying": "验证中...",
+        "backToEmail": "返回修改邮箱"
+    },
+    "common": {
+        "loading": "加载中...",
+        "save": "保存",
+        "cancel": "取消",
+        "confirm": "确认"
+    }
+}
